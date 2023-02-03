@@ -1,0 +1,7 @@
+{
+  "name": "TRACKER",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
